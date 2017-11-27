@@ -6,6 +6,7 @@
 - x Post -> date:date rationale:text
 - x User -> Devise
 - x AdminUser -> STI
+- Auditlog
 
 ## Features:
 - Approval Workflow
